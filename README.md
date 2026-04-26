@@ -103,5 +103,5 @@ Proyecto impulsado por sitiosdememoria.uy.
 Este proyecto está bajo la Licencia GNU GPLv3. Eres libre de usar, estudiar, compartir y modificar este software para cualquier propósito, siempre y cuando las obras derivadas mantengan la misma licencia abierta.
 
 ## Historial de Versiones
-### v0.3 (Abril 2026)
+### v0.4 (Abril 2026)
 * Versión inicial estable del proyecto.
