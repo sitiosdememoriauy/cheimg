@@ -4,7 +4,7 @@
 
 **Che IMG** es un software de edición automática de imagenes, diseñado específicamente para unir y fusionar recortes escaneados de diarios, documentos históricos y afiches que debieron ser digitalizados en partes debido a su tamaño, generando un único panorama en alta resolución.
 
-Esta aplicación fue desarrollada por **sitiosdememoria.uy** con el objetivo de facilitar el análisis y la investigación de grandes volúmenes documentales. Cuenta con una licencia de software libre que permite su uso, estudio, difusión y modificación, como parte del compromiso del proyecto con las luchas por memoria, verdad y justicia.
+Esta aplicación fue desarrollada por **sitiosdememoria.uy** con el objetivo de facilitar la reconstrucción de afiches, diarios y otros materiales de gran tamaño a través de equipamiento de menor tamaño. Cuenta con una licencia de software libre que permite su uso, estudio, difusión y modificación, como parte del compromiso del proyecto con las luchas por memoria, verdad y justicia.
 
 ## ✨ Características Principales
 
