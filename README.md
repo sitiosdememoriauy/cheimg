@@ -1,5 +1,3 @@
-*Read this in [English](README-en.md).*
-
 # 🖼️ Che IMG
 
 **Che IMG** es un software de edición automática de imagenes, diseñado específicamente para unir y fusionar recortes escaneados de diarios, documentos históricos y afiches que debieron ser digitalizados en partes debido a su tamaño, generando un único panorama en alta resolución.
